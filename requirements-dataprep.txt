@@ -1,0 +1,8 @@
+anyascii>=0.3.2
+beautifulsoup4>=4.13.3
+geopandas>=1.0.1
+pandas>=2.2.3
+python-dotenv>=1.1.0
+requests>=2.32.3
+shapely>=2.0.7
+tqdm>=4.67.1
